@@ -1,4 +1,5 @@
-##LoRA with PyTorch
+## LoRA with PyTorch
+
 This notebook demonstrates how to implement Low-Rank Adaptation (LoRA) for fine-tuning large neural networks efficiently using PyTorch. It provides a clear, modular approach to applying LoRA on pre-trained transformer-based models while minimizing computational cost and memory footprint.
 
 ## Overview
